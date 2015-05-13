@@ -176,7 +176,7 @@ KityMinder.LANG['zh-cn'] = {
         'redo': '重做 (Ctrl + Y)',
 
         'tabs': {
-            'idea': '思路',
+            'idea': '思2路',
             'appearence': '外观',
             'view': '视图'
         },
